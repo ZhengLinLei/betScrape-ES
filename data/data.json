@@ -1,0 +1,14 @@
+{
+    "apuestas": {
+        "primitiva": "LAPR",
+        "euromillon": "EMIL",
+        "bonoloto": "BONO",
+        "quiniela": "LAQU",
+        "gordo": "ELGR",
+        "loteria-nacional": "LNAC",
+        "lototurf": "LOTU",
+        "quintuple-plus": "QUPL",
+        "quinigolf": "QGOL"
+    },
+    "host": "https://www.loteriasyapuestas.es/servicios/buscadorSorteos?game_id=${:0}&celebrados=true&fechaInicioInclusiva=${:1}&fechaFinInclusiva=${:2}"
+}
