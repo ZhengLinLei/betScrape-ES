@@ -1,10 +1,7 @@
 > #### Version 1.0.0
-> - The result is available in JSON, XML and CSV.
+> - The result is available in JSON (Rich data content), XML (Poor content) and CSV (Poor content).
 > - Three requests available: available bet types, latest bet and bets on a range of dates.
 > - Realtime data.
-<br>
-
-<br>
 <br>
 <br>
 <h1 align="center">Spanish Bet Scraping</h1>

@@ -1,0 +1,28 @@
+{
+  "name": "betscrapes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "start-n": "npx nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhengLinLei/betScrape-ES.git"
+  },
+  "author": "ZhengLinLei",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ZhengLinLei/betScrape-ES/issues"
+  },
+  "homepage": "https://github.com/ZhengLinLei/betScrape-ES#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0",
+    "zll-json2csv": "^1.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
